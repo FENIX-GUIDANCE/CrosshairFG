@@ -15,6 +15,10 @@
  - ✅ Горячие клавиши
  - ✅ Не требует установки
 
+## 👤 Авторы
+1. RASMON - https://github.com/ras-mon
+2. RAF - https://github.com/RAFBOOST
+
 ## ✉️ контакты 
 1. сайт - https://crosshairfg.wordpress.com/
 2. тг - https://t.me/crosshairfg
